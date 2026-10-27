@@ -1,8 +1,1 @@
-{
-  "name": "FV Nakliyat",
-  "short_name": "FV Nakliye",
-  "start_url": "/fv-uygulamasi/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#1976d2"
-}
+{"name":"FV Nakliyat","short_name":"FV Nakliye","start_url":"/fv-uygulamasi/","display":"standalone","background_color":"#ffffff","theme_color":"#1976d2"}

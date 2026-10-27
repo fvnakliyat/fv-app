@@ -1,11 +1,15 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "FV Nakliye",
-  "orientation": "any",
-  "scope": "/",
+  "name": "FV Nakliyat",
   "short_name": "FV Nakliye",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "start_url": "/fv-uygulamasi/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "icons": [
+    {
+      "src": "FV_Nakliye_logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
 }

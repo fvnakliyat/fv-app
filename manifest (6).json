@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "FV Nakliye",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "FV Nakliye",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}

@@ -1,11 +1,8 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
+  "name": "FV Nakliyat",
+  "short_name": "FV Nakliye",
+  "start_url": "/fv-uygulamasi/",
   "display": "standalone",
-  "name": "fvnakliyat",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "fvnakliyat.github",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2"
 }
